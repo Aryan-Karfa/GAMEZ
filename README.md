@@ -6,6 +6,17 @@ The platform is designed with a **Dark Gothic Neo-Brutalist + Industrial Hardwar
 
 ---
 
+## Screenshots
+
+![GAMEZ]
+![GAMEZ]
+![GAMEZ]
+![GAMEZ]
+![GAMEZ]
+![GAMEZ]
+
+---
+
 ## 🛠️ Tech Stack
 - **Frontend**: React 19, Tailwind CSS v4, Zustand 5, Vite, React Router 7.
 - **Backend**: Node.js, Express, Prisma (PostgreSQL adapter), Pino logger, Helmet security, Express Rate Limit.
