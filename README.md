@@ -8,12 +8,12 @@ The platform is designed with a **Dark Gothic Neo-Brutalist + Industrial Hardwar
 
 ## Screenshots
 
-![GAMEZ]
-![GAMEZ]
-![GAMEZ]
-![GAMEZ]
-![GAMEZ]
-![GAMEZ]
+![GAMEZ](./Docs/1.png)
+![GAMEZ](./Docs/2.png)
+![GAMEZ](./Docs/3.png)
+![GAMEZ](./Docs/4.png)
+![GAMEZ](./Docs/5.png)
+![GAMEZ](./Docs/6.png)
 
 ---
 
